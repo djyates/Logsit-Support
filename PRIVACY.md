@@ -15,7 +15,7 @@ We use Mixpanel (https://mixpanel.com), a third party analytics provider, to agg
 
 We are not responsible for the actions of service providers or other third parties, nor are we responsible for any additional information you provide directly to any third parties.
 
-## INTERNATIONAL USERS
+## International Users
 We may transfer your information to the United States and process it there (or any other country where we operate). By using Logsit, you consent to the collection, transfer, use, storage and disclosure of your information as described in this privacy policy.
 
 ## Questions?
